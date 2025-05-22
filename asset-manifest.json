@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.eab74744.css",
-    "main.js": "/static/js/main.58f3e17d.js",
+    "main.css": "/static/css/main.ddf906f7.css",
+    "main.js": "/static/js/main.3c7ff508.js",
     "static/js/453.2e2b1b0b.chunk.js": "/static/js/453.2e2b1b0b.chunk.js",
     "static/media/soft3.jpg": "/static/media/soft3.076797011eaf709e562b.jpg",
+    "static/media/porcentaje.webp": "/static/media/porcentaje.326f15c08e1d718cdb55.webp",
     "static/media/soft2.jpg": "/static/media/soft2.e9c3fdc007c314a87b1d.jpg",
     "static/media/soft1.jpg": "/static/media/soft1.043061d3e741b890f428.jpg",
     "static/media/jdpc.png": "/static/media/jdpc.3b407be1851f8885ba99.png",
@@ -17,13 +18,14 @@
     "static/media/toga.jpg": "/static/media/toga.b1db4fbee502e3c556c6.jpg",
     "static/media/mail.webp": "/static/media/mail.90b050de9d20347b437f.webp",
     "static/media/chepe.png": "/static/media/chepe.beaa6c6662edccc437df.png",
+    "static/media/qartos.png": "/static/media/qartos.c477bef1757e2f04e2b7.png",
     "index.html": "/index.html",
-    "main.eab74744.css.map": "/static/css/main.eab74744.css.map",
-    "main.58f3e17d.js.map": "/static/js/main.58f3e17d.js.map",
+    "main.ddf906f7.css.map": "/static/css/main.ddf906f7.css.map",
+    "main.3c7ff508.js.map": "/static/js/main.3c7ff508.js.map",
     "453.2e2b1b0b.chunk.js.map": "/static/js/453.2e2b1b0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eab74744.css",
-    "static/js/main.58f3e17d.js"
+    "static/css/main.ddf906f7.css",
+    "static/js/main.3c7ff508.js"
   ]
 }
